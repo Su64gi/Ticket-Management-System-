@@ -4,6 +4,7 @@ A simple and scalable Ticket Management System API built using Hapi.js with MySQ
 This project demonstrates user authentication, JWT-based security, and full CRUD operations for managing support tickets, along with CSV import/export functionality
 
 🚀 Features
+
 👤 User Module
 User Registration
 User Login (JWT Authentication)
