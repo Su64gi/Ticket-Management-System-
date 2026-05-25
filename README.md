@@ -6,9 +6,9 @@ This project demonstrates user authentication, JWT-based security, and full CRUD
 🚀 Features
 
 👤 User Module
-User Registration
-User Login (JWT Authentication)
-User Logout (Token-based session handling)
+.User Registration
+.User Login (JWT Authentication)
+.User Logout (Token-based session handling)
 
 🎫 Ticket Module
 Create Ticket
